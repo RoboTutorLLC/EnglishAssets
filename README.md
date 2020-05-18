@@ -1,6 +1,8 @@
 # ENGLISH ASSETS
 # RoboTutorLLC/EnglishAssets
 
+Note:  Beware that English_StoriesAudio/assets includes other assets besides audio, including storydata.json and .jpg illustrations!
+
 
 ### Setup and Configuration
 

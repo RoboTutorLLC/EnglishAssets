@@ -1,5 +1,5 @@
 # ENGLISH ASSETS
-# GLEXP-Team-RoboTutor-EnglishAssets
+# RoboTutorLLC/EnglishAssets
 
 
 ### Setup and Configuration
@@ -7,7 +7,7 @@
 1 Clone this repo to your development computer
 
 ```
-git clone https://github.com/XPRIZE/GLEXP-Team-RoboTutor-EnglishAssets
+git clone https://github.com/RoboTutorLLC/EnglishAssets
 ```
 
 2 Note that cloning this support repo will require up to a GB of space.
@@ -26,7 +26,7 @@ git clone https://github.com/XPRIZE/GLEXP-Team-RoboTutor-EnglishAssets
   
 4 RoboTutor will then have the assets required on the target device (check the _robotutor_assets_ folder).
 
-5 Continue to [build RoboTutor](https://github.com/XPRIZE/GLEXP-Team-RoboTutor-RoboTutor).
+5 Continue to [build RoboTutor](https://github.com/RoboTutorLLC/RoboTutor).
 
 
 #### Zipping Assets
